@@ -63,3 +63,7 @@ Clamp(val, low, high)
     Clamp(4, 1.0, 9) will return 4
     Clamp(13, 1.0, 9) will return 9
     Clamp(0, 1.0, 9) will return 1.0
+
+
+Sourcecode:
+    https://github.com/chikuzen/FCollections
